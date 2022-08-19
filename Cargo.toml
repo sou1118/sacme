@@ -1,0 +1,15 @@
+[package]
+name = "sacme"
+version = "0.1.0"
+edition = "2021"
+authors = ["sou1118 <hello@kattyan.dev>"]
+license = "MIT"
+repository = "https://github.com/sou1118/sacme"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[badges]
+github = { repository = "sou1118/sacme", workflow = "Rust" }
